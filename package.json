@@ -1,5 +1,5 @@
 {
-  "name": "com.danishin.capacitor-native-push-notifications",
+  "name": "com.shifteeinc.capacitor-native-push-notifications",
   "version": "1.0.0",
   "description": "The Push Notifications API provides access to native push notifications.",
   "main": "dist/plugin.cjs.js",
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danishin/push-notifications.git"
+    "url": "git+https://github.com/shifteeinc/push-notifications.git"
   },
   "keywords": [
     "capacitor",
